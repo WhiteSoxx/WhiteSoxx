@@ -9,7 +9,7 @@ I'm a CS and Engineering Student in Lisbon.
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSoxx&hide_border=true&langs_count=8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSoxx&hide_border=true&langs_count=8" />
 </picture>
