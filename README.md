@@ -1,7 +1,7 @@
 # Thank you for checking out my profile!
 I'm a Computer Science and Engineering student in Lisbon. 
 
-I have a passion for gaming and writing. 
+I have a passion for game design and writing. 
 While this account won't see any repositories added for a while, know I'll work hard to finish my degree and pour time into what I love: creating.
 
 <picture>
